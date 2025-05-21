@@ -4,6 +4,8 @@ This is a simple and fun personal webpage built using **HTML, CSS, and JavaScrip
 
 It showcases a list of interesting and quirky **fun facts** about me in a clean and interactive layout.
 
+👉 View Live  https://adarsh-70.github.io/Fun-Facts-About-Me/
+
 ## 🛠️ Built With
 
 - **HTML5** – for page structure and content
